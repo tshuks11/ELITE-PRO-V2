@@ -8,18 +8,18 @@ global.botname = 'TemplerMD'
 global.ytname = "YT: CODED-BY-LOYD"
 global.socialm = "GitHub: tshuks11"
 global.location = "Harare, Zimbabwe"
-global.ownernumber = '263783350189'
+global.ownernumber = '8613259030158'
 
 //BOT SETTINGS 2//
-global.premium = ["263783350189"] //Premium 
+global.premium = ["8613259030158"] //Premium 
 global.websitex = "https://youtube.com/@CODED-BY-LOYD"
 global.wagc = "https://whatsapp.com/channel/0029"
 global.themeemoji = '👨🏼‍💻'
 global.wm = "ELITE-PRO-V2"
-global.botscript = 'https://github.com/EliteProTech/Elite-Pro-V2'
+global.botscript = 'https://github.com/tshuks11'
 global.packname = "Sticker By"
-global.author = "TEMPLER-MD\n\n+263783350189"
-global.creator = "+263783350189@s.whatsapp.net"
+global.author = "TSHUKS.OFFICIAL\n\n+8613259030158"
+global.creator = "+8613259030158@s.whatsapp.net"
 global.elitepropp = 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg'
 
 //DEFAULT SETTINGS//
