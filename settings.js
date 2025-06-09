@@ -13,7 +13,7 @@ global.ownernumber = '263783350189'
 //BOT SETTINGS 2//
 global.premium = ["263783350189"] //Premium 
 global.websitex = "https://youtube.com/@CODED-BY-LOYD"
-global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
+global.wagc = "https://whatsapp.com/channel/0029"
 global.themeemoji = '👨🏼‍💻'
 global.wm = "ELITE-PRO-V2"
 global.botscript = 'https://github.com/EliteProTech/Elite-Pro-V2'
